@@ -52,6 +52,9 @@ iframe{
 .nav-item-link{
 	font-size: 12px;
 }
+.tel-num{
+	font-size: 12px;
+}
 
 }
 @media (max-width: 760px){
